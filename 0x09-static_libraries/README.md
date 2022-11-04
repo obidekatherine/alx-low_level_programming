@@ -1,1 +1,1 @@
-**Stactic library**
+**Static library**
